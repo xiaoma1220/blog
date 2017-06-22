@@ -1,11 +1,8 @@
 # blog
-梁少峰的个人博客
+
 
 订阅请点 watch, 收藏请点 star, 不要点 fork
 
-想在微信上订阅？欢迎关注公众号"前端控"
-
-![前端控](./image/前端控二维码.jpg)
 
 ## [preact源码](https://github.com/youngwind/blog/labels/preact%20%E6%BA%90%E7%A0%81)
 
